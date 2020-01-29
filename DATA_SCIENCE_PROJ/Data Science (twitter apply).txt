@@ -1,9 +1,0 @@
-Name of School : State University of New York at Binghamton
-Instructor : Jeremy Blackburn
-Course Number : CS 580N (Data Science with applications in Social Media)
-
-We are developing a system to collect twitter data to study the behavior of twitter users all over the world on any issue currently occurring and also developing a study to find the correlation between people of different communities over these issues. This study will be purely academic and won't be used for any commercial purposes.
-
-We will collect the data related to tweets based on the hashtags used in the tweet. The data will be : Tweet Timestamp, Tweet origin location and number of retweets. We will also collect information of the people retweeting it, like the location of the person.
-
-Yes and No. We will only display the aggregate data and the information gained from studying these data in presentation which will only be inside our classrooms. This information won't be displayed in any public forums.
